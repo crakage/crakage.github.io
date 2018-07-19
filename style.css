@@ -1,0 +1,25 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	position: relative;
+	top: 350px;
+	background-color: rgba(212, 110, 110, 0.6);
+	color: rgb(85, 0, 0);
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	top: 370px;
+
+}
+
+.btn-outline-secondary {
+	background-color: rgba(212, 110, 110, 0.6);
+	color: rgb(85, 0, 0);
+}
